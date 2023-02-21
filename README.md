@@ -14,9 +14,9 @@ subsequent clicks should alternate (e.g. 3rd ASCENDING, 4th, DESCENDING, etc.)
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/77298953/218942811-01ff18aa-c1ce-49cd-96f3-999b8f2f6e97.png" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/77298953/220262355-db351454-b4cd-422e-9f8a-7b75dd7899e1.png" width=60% height=60%>
 
-The image above shows the result when clicking the reduce button
+The image above shows how the screen looks when it is originally loaded
 
 <img src="https://user-images.githubusercontent.com/77298953/218943304-cdbee997-6e81-4ed5-bf66-0c927ae581d3.png" width=60% height=60%>
 
