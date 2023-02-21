@@ -2,6 +2,7 @@
 
 ## Table of contents  
 * [Task Description](#Task-description)
+* [Notes](#Notes)
 * [Screenshots](#Screenshots)
 
 
