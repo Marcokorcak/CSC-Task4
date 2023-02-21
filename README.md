@@ -7,7 +7,7 @@
 
 
 ## Task Description
-Add to the <SearchBar /> component a button that will do the following:
+Add to the SearchBar component a button that will do the following:
 
 on the first click, sort the movies in ASCENDING ORDER based on movie length
 on the second click, sort the movies in DESCENDING ORDER based on movie length
