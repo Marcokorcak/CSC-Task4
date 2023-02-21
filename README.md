@@ -12,6 +12,8 @@ on the first click, sort the movies in ASCENDING ORDER based on movie length
 on the second click, sort the movies in DESCENDING ORDER based on movie length
 subsequent clicks should alternate (e.g. 3rd ASCENDING, 4th, DESCENDING, etc.)
 
+## Notes
+When the page is loaded the movies are not sorted and when the button is clicked, the sort (asc/desc) that is shown on the button is the current sort being displayed on the screen
 
 ## Screenshots
 
